@@ -1,7 +1,9 @@
 # ticket-bot
 simple ticket bot made in python
 
-
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/824794900658389033/844683739024195594/e0wbhwMO.gif"/>
+</p>
 ___
 
 # Simple ticket bot
