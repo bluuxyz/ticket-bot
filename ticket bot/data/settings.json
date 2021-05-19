@@ -1,0 +1,9 @@
+  
+{
+    "token": "token",
+    "prefix": "!",
+    "admin": "Admin id here",
+    "ticket_message": "Ticket message here",
+    "admin_error_message": "error message that users see when trying to close ticket"
+    
+}
