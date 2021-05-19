@@ -12,3 +12,5 @@ ___
   - {prefix}help | help command
   - {prefix}ticket | open a ticket
   - {prefix}close | close a ticket (admin only)
+___
+Discord: bluu#9700 if u have any problems.
